@@ -1,3 +1,0 @@
-/home/clizcrm/Desktop/project/simpleChatRoom/out/build/GCC 14.3.1 x86_64-redhat-linux/CMakeFiles/simpleChatRoom.dir
-/home/clizcrm/Desktop/project/simpleChatRoom/out/build/GCC 14.3.1 x86_64-redhat-linux/CMakeFiles/edit_cache.dir
-/home/clizcrm/Desktop/project/simpleChatRoom/out/build/GCC 14.3.1 x86_64-redhat-linux/CMakeFiles/rebuild_cache.dir

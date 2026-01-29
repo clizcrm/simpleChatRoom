@@ -1,1 +1,0 @@
-/usr/bin/g++ -g -Wl,--dependency-file=CMakeFiles/simpleChatRoom.dir/link.d CMakeFiles/simpleChatRoom.dir/main.cpp.o CMakeFiles/simpleChatRoom.dir/dataReceiver.cpp.o -o simpleChatRoom
